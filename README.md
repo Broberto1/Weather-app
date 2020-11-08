@@ -1,1 +1,1 @@
-# Weather-app
+# Weather-app I made this weather app to show the weather for your current location. Its not everything i want it to be but its a great start to what it could be. I found a great video on youtube on how to make a basic app and it helped me alot when making this app. I understood the process very well and was excited when my API was working. 
